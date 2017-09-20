@@ -1,6 +1,8 @@
+#DEMO地址
+[demo](http://101.132.113.225/mail/)  
 # mail
 
-> A Vue.js project
+>慕课网的vue+node+mongodb 商城网站
 
 ## Build Setup
 
