@@ -1,5 +1,5 @@
 #DEMO地址
-[demo](http://101.132.113.225/mail/)  
+[demo](http://likecc.top/mail/)  
 # mail
 
 >慕课网的vue+node+mongodb 商城网站
